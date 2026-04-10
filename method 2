@@ -84,7 +84,7 @@
 
       try {
 
-        fetch("https://cdn.jsdelivr.net/sigmasigmasigma514-sys/gn-math-DONTDMCA/blob/main/singlefile.html?t="+Date.now())
+        fetch("https://cdn.jsdelivr.net/gh/sigmasigmasigma514-sys/gn-math-DONTDMCA@main/singlefile.html?t="+Date.now())
 
           .then(response => response.text())
 
