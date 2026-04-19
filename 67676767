@@ -1,0 +1,33 @@
+https://stocks-math-6d4a15.webflow.io/index.html
+https://script.google.com/macros/s/AKfycbx9tBGxaPvZcUJIcMlWiC5Gj_M4N9LK0M5quYj3MENwXR4bHV1glEjO8Fbt8uGJVujc/exec
+https://stockseducation.weebly.com/educate.html
+https://gemini.google.com/share/7d36d61aae31
+https://st0ck.pythonanywhere.com/ 
+http://www.securly.com.clipfaktory.com/
+http://www.securly.com.lysterfam.net/
+http://www.securly.com.marcosruben.com/
+http://www.securly.com.turrentineguitars.com/
+http://www.securly.com.udalyonka.com/
+
+
+
+<button 
+        onclick='fetch("https://cdn.jsdelivr.net/gh/gn-math/gn-math-DONTDMCA@main/autoupdate.html?t="+Date.now()).then(response => response.text()).then(text => {const newWin = window.open("about:blank", "_blank");if (newWin) {newWin.document.open();newWin.document.write(text);newWin.document.close();}});' 
+        style="width: 100%; height: 100%; font-size: 100;"
+>math homework</button>
+
+<button style="width: 100%; height:100%; font-size:67;" onclick='
+(async()=>{
+  const res = await fetch("https://cdn.jsdelivr.net/gh/gn-math/gn-math-DONTDMCA@main/autoupdate.html");
+  const text = await res.text();
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(text, "text/html");
+  const html = window.parent.document;
+  html.documentElement.innerHTML = doc.documentElement.innerHTML;
+  doc.querySelectorAll("script").forEach(s => {
+  const ns = html.createElement("script");
+    if (s.src) ns.src = s.src;
+    else ns.textContent = s.textContent;
+    html.body.appendChild(ns);
+  });
+})();' >math homework</button>
